@@ -7,11 +7,17 @@ The fraction is 80% for train and 20% for test.
 ## Authors and acknowledgment
 Pegah Shams J, Ramin Toosi, Pooya Narimanii
 ## Citation
-@inproceedings{jey2022hate,
-  title={Hate Sentiment Recognition System For Persian Language},
-  author={Jey, Pegah Shams and Hemmati, Arash and Toosi, Ramin and Akhaee, Mohammad Ali},
-  booktitle={2022 12th International Conference on Computer and Knowledge Engineering (ICCKE)},
-  pages={517--522},
-  year={2022},
-  organization={IEEE}
-}
+title: Hate Sentiment Recognition System For Persian Language
+authors:
+- family-names: "Jey"
+  given-names: "Pegah Shams"
+- family-names: "Hemmati"
+  given-names: "Arash"
+- family-names: "Toosi"
+  given-names: "Ramin"
+- family-names: "Akhaee"
+  given-names: "Mohammad Ali"
+booktitle:2022 12th International Conference on Computer and Knowledge Engineering (ICCKE)
+  pages: 517--522
+  year: 2022
+  organization: IEEE
