@@ -6,7 +6,7 @@ There is also an equalized dataset contains 2464 comments. we also separates the
 The fraction is 80% for train and 20% for test.
 ## Authors and acknowledgment
 Pegah Shams J, Ramin Toosi, Pooya Narimanii
-##Citation info
+## Citation info
 @inproceedings{jey2022hate,
   title={Hate Sentiment Recognition System For Persian Language},
   author={Jey, Pegah Shams and Hemmati, Arash and Toosi, Ramin and Akhaee, Mohammad Ali},
